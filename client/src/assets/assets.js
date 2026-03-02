@@ -40,8 +40,8 @@ export const dummyUsers = [
 export const dummyWorkspaces = [
     {
         "id": "org_1",
-        "name": "Corp Workspace",
-        "slug": "corp-workspace",
+        "name": "CJ Workspace",
+        "slug": "cj-workspace",
         "description": null,
         "settings": {},
         "ownerId": "user_3",
